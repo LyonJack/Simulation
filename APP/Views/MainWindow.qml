@@ -24,7 +24,7 @@ Window {
         id: theme
     }
 
-    Setting
+    SettingWindow
     {
         id: setting
     }

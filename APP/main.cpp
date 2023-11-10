@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
     qmlRegisterType<MainViewModel>("MainViewModel", 1, 0, "MainViewModel");
 
     QQmlApplicationEngine engine;
-    const QUrl url(QStringLiteral("qrc:/Views/main.qml"));
+    const QUrl url(QStringLiteral("qrc:/Views/MainWindow.qml"));
     QObject::connect(&engine, &QQmlApplicationEngine::objectCreated,
         &app, [url](QObject *obj, const QUrl &objUrl) {
             if (!obj && url == objUrl)

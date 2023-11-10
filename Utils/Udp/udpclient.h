@@ -1,8 +1,7 @@
 #pragma once
-#include <cstdint>
-#if _WIN32
-#include<Winsock2.h>
-#endif // _WIN32
+#include <iostream>
+#include <memory>
+#include <functional>
 
 namespace simulation
 {
@@ -10,17 +9,34 @@ namespace simulation
     {
         namespace udp
         {
-            class udp_client
+            typedef std::function<void(const std::string& message)> MessageReceivedCallback;
+
+            class UdpSocketClient
             {
             public:
-                udp_client();
-                ~udp_client();
-                void setSockAddr(const char* destAddr, const int destPort);
-                void sendData(const char* buf, const int len) const;
+                UdpSocketClient(const std::string& serverIp, int serverPort);
+                ~UdpSocketClient();
+
+            public:
+                bool connect();
+
+                void close();
+
+                bool send(const std::string& data);
+
+                bool sendToClient(const std::string& data, const std::string& strIp, int nPort);
+
+                std::string receive();
+
+                void startListening();
+
+                void stopListening();
+
+                void setReceivedCallback(MessageReceivedCallback callback);
+
             private:
-                WSADATA wsaData;
-                SOCKET clientSocket;
-                sockaddr_in clientSockAddr;
+                class Impl;
+                std::shared_ptr<Impl> m_pImpl;
             };
         }
     }
