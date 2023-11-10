@@ -2,7 +2,10 @@
 
 QtObject
 {
-    property color background: "#2E2F30"
+    property color background: "#1D1D1D"
     property color foreground: "#ffffff"
+    property color borderColor: "#848484"
+    property color activeColor: "#39C0FF"
+
     property string title: "导航仿真系统"
 }
