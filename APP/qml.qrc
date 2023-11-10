@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Views/main.qml</file>
+        <file>Views/Chart.qml</file>
+        <file>Views/Setting.qml</file>
+        <file>Views/Theme.qml</file>
+        <file>Images/setting.svg</file>
+    </qresource>
+</RCC>
