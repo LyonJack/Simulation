@@ -62,7 +62,11 @@ Window {
                 width: 20
                 anchors.right: parent.right
                 anchors.rightMargin: 5
-                background : theme.background
+                background : Rectangle
+                {
+                    color:  theme.background
+                }
+
                 onClicked: {setting.show()}
                 //onClicked: dataContext.loginButtonClicked()
 
@@ -76,7 +80,7 @@ Window {
                     ColorOverlay{
                         anchors.fill: image
                         source: image
-                        color: "#ffffff"
+                        color: "#FF6100"
                     }
                 }
             }

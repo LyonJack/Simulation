@@ -3,6 +3,7 @@
 
 #include <QLocale>
 #include <QTranslator>
+#include <QIcon>
 
 #include "ViewModels/MainViewModel.h"
 
@@ -14,6 +15,7 @@ int main(int argc, char *argv[])
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
 #endif
     QGuiApplication app(argc, argv);
+    app.setWindowIcon(QIcon(":/Images/setting.svg"));
 
     QTranslator translator;
     const QStringList uiLanguages = QLocale::system().uiLanguages();

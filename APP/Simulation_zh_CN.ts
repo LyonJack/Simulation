@@ -5,8 +5,8 @@
     <name>main</name>
     <message>
         <location filename="main.qml" line="8"/>
-        <source>Hello World</source>
-        <translation type="unfinished"></translation>
+        <source>Simulation</source>
+        <translation type="unfinished">导航仿真系统</translation>
     </message>
 </context>
 </TS>
