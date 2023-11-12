@@ -6,10 +6,12 @@
 #include <QIcon>
 
 #include "ViewModels/MainViewModel.h"
+#include "Utils/MapItem.h"
+#include "Utils/QuickPaintedItem.h"
 
 using namespace app::viewModels;
 
-int main(int argc, char *argv[])
+int main(int argc, char* argv[])
 {
 #if QT_VERSION < QT_VERSION_CHECK(6, 0, 0)
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
@@ -19,7 +21,7 @@ int main(int argc, char *argv[])
 
     QTranslator translator;
     const QStringList uiLanguages = QLocale::system().uiLanguages();
-    for (const QString &locale : uiLanguages) {
+    for (const QString& locale : uiLanguages) {
         const QString baseName = "Simulation_" + QLocale(locale).name();
         if (translator.load(":/i18n/" + baseName)) {
             app.installTranslator(&translator);
@@ -28,11 +30,13 @@ int main(int argc, char *argv[])
     }
 
     qmlRegisterType<MainViewModel>("MainViewModel", 1, 0, "MainViewModel");
+    qmlRegisterType<QuickPaintedItem>("QuickPaintedItem", 1, 0, "QuickPaintedItem");
+    qmlRegisterType<MapItem>("MapItem", 1, 0, "MapItem");
 
     QQmlApplicationEngine engine;
     const QUrl url(QStringLiteral("qrc:/Views/MainWindow.qml"));
     QObject::connect(&engine, &QQmlApplicationEngine::objectCreated,
-        &app, [url](QObject *obj, const QUrl &objUrl) {
+        &app, [url](QObject* obj, const QUrl& objUrl) {
             if (!obj && url == objUrl)
                 QCoreApplication::exit(-1);
         }, Qt::QueuedConnection);

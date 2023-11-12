@@ -4,6 +4,8 @@ import QtQuick.Controls 2.5
 import QtQuick.Controls.Styles 1.4
 import MainViewModel 1.0
 import QtGraphicalEffects 1.15
+import MapItem 1.0
+import QuickPaintedItem 1.0
 
 
 Window {
@@ -92,4 +94,53 @@ Window {
             }
         }
     }
+
+
+    Rectangle {
+        visible: true
+        width: 640
+        height: 480
+        color: "#2795e9"
+        MapItem
+        {
+            id: mapItem
+            anchors.fill: parent
+            centerFreqPos: 200
+            spanFreqPos: 100
+            bandPowerPos: 200
+            Rectangle
+            {
+                border.color: red
+                anchors.fill: parent
+            }
+        }
+    }
+
+    QuickPaintedItem {
+            id: drawer
+            anchors.fill: parent
+            antialias: true
+            MouseArea{
+                anchors.fill: parent
+                acceptedButtons: Qt.LeftButton | Qt.RightButton
+                hoverEnabled:true
+
+                onPressed: {
+                    if(mouse.button == Qt.LeftButton){
+                        drawer.draw = true;
+                        parent.mousePress(mouseX,mouseY)
+                    }
+                    else{
+                        drawer.draw = false;
+                    }
+                }
+                onPositionChanged: {
+                    parent.mouseMove(mouseX,mouseY)
+                }
+                onReleased: {
+                    if(mouse.button == Qt.LeftButton)
+                        parent.mouseRelease(mouseX,mouseY)
+                }
+            }
+        }
 }

@@ -26,39 +26,6 @@ namespace app
             }
         }
 
-        QString MainViewModel::name()
-        {
-            return m_name;
-        }
-
-        void MainViewModel::setName(const QString& name)
-        {
-            m_name = name;
-            emit nameChanged(m_name);
-        }
-
-        QString MainViewModel::password()
-        {
-            return m_password;
-        }
-
-        void MainViewModel::setPassword(const QString& password)
-        {
-            m_password = password;
-            emit passwordChanged(m_password);
-        }
-
-        QString MainViewModel::state()
-        {
-            return m_state;
-        }
-
-        void MainViewModel::setState(const QString& state)
-        {
-            m_state = state;
-            emit stateChanged(state);
-        }
-
         void MainViewModel::loginButtonClicked()
         {
             if (m_model)
@@ -66,11 +33,11 @@ namespace app
                 QString errorCode;
                 if (!m_model->login(&errorCode))
                 {
-                    setState("Failed:" + errorCode);
+                    set_state("Failed:" + errorCode);
                 }
                 else
                 {
-                    setState("Successed");
+                    set_state("Successed");
                 }
             }
         }
