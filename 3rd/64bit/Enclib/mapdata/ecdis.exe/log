@@ -1,0 +1,651 @@
+- 14:56:21.000 INFO: Logging system initialized.
+- 14:56:21.078 INFO: Root env: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib
+- 14:56:21.078 INFO: No license control.
+- 14:56:21.078 INFO: Current SENC directory: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts
+- 14:56:21.078 INFO: Path of Plugins: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\plugins
+- 14:56:21.109 INFO: Smooth mode is on.
+- 14:56:21.124 INFO: screen size: 15.6 inch.
+- 14:56:21.140 INFO: screen resolution: 2418 X 1478
+- 14:56:21.140 ERROR: ChartSymbols ConfigFile not found: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\s57data\chartsymbols.xml
+- 14:56:21.140 INFO: Load s52 symbols failed!
+- 14:56:22.811 INFO: Qt graphics engine.
+- 14:58:12.000 INFO: Logging system initialized.
+- 14:58:12.000 INFO: Root env: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib
+- 14:58:12.000 INFO: No license control.
+- 14:58:12.000 INFO: Current SENC directory: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts
+- 14:58:12.000 INFO: Path of Plugins: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\plugins
+- 14:58:12.015 INFO: Smooth mode is on.
+- 14:58:12.031 INFO: screen size: 15.6 inch.
+- 14:58:12.031 INFO: screen resolution: 2418 X 1478
+- 14:58:13.187 INFO: ChartSymbols loaded.
+- 14:58:13.218 INFO: ChartSymbols loaded.
+- 14:58:13.795 INFO: Qt graphics engine.
+- 14:58:13.827 INFO: Layer in system: S57DataLayer
+- 14:58:13.827 INFO: Layer in system: S57ManualUpdateLayer
+- 14:58:13.827 INFO: Layer in system: S57RouteLayer
+- 14:58:13.827 INFO: Layer in system: S57UserChartLayer
+- 14:58:13.827 INFO: Layer in system: TTLayer
+- 14:58:13.827 INFO: Layer in system: AISLayer
+- 14:58:13.827 INFO: Layer in system: HLLayer
+- 14:58:13.827 INFO: Layer in system: MiscellaneousLayer
+- 14:58:13.827 INFO: Layer in system: OwnshipLayer
+- 14:58:13.858 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:00:51.000 INFO: Logging system initialized.
+- 15:00:51.000 INFO: Root env: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib
+- 15:00:51.000 INFO: No license control.
+- 15:00:51.000 INFO: Current SENC directory: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts
+- 15:00:51.000 INFO: Path of Plugins: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\plugins
+- 15:00:51.015 INFO: Smooth mode is on.
+- 15:00:51.031 INFO: screen size: 15.6 inch.
+- 15:00:51.031 INFO: screen resolution: 2418 X 1478
+- 15:00:51.171 INFO: ChartSymbols loaded.
+- 15:00:51.187 INFO: ChartSymbols loaded.
+- 15:00:52.014 INFO: Qt graphics engine.
+- 15:00:52.170 INFO: Layer in system: S57DataLayer
+- 15:00:52.170 INFO: Layer in system: S57ManualUpdateLayer
+- 15:00:52.170 INFO: Layer in system: S57RouteLayer
+- 15:00:52.170 INFO: Layer in system: S57UserChartLayer
+- 15:00:52.170 INFO: Layer in system: TTLayer
+- 15:00:52.170 INFO: Layer in system: AISLayer
+- 15:00:52.170 INFO: Layer in system: HLLayer
+- 15:00:52.170 INFO: Layer in system: MiscellaneousLayer
+- 15:00:52.170 INFO: Layer in system: OwnshipLayer
+- 15:00:52.201 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:01:20.485 ERROR: Incorrect Edition Number : expecting 1
+- 15:01:21.123 ERROR: Incorrect Edition Number : expecting 2
+- 15:01:25.133 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB4X0000.X57 Not exist!
+- 15:01:31.030 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:01:31.170 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:01:32.591 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:01:32.747 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:01:32.075 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100004.X57 Not exist!
+- 15:01:32.184 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100005.X57 Not exist!
+- 15:01:33.026 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:01:33.323 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:01:34.103 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58932B.X57 Not exist!
+- 15:01:34.118 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB60242T.X57 Not exist!
+- 15:01:34.306 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61011A.X57 Not exist!
+- 15:01:35.555 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:01:35.664 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:01:35.696 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61032A.X57 Not exist!
+- 15:01:35.179 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:01:35.242 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:01:36.647 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:01:36.725 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:01:36.756 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61032A.X57 Not exist!
+- 15:01:37.521 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:01:37.521 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:01:37.989 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:01:37.989 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:01:37.114 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:01:37.270 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:01:37.379 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:01:38.675 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:01:38.675 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:01:38.925 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:01:38.081 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:01:38.159 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:01:38.221 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301820.X57 Not exist!
+- 15:01:38.221 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301840.X57 Not exist!
+- 15:01:39.502 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301860.X57 Not exist!
+- 15:01:39.611 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302020.X57 Not exist!
+- 15:01:39.892 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301820.X57 Not exist!
+- 15:01:39.266 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:01:39.422 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:01:40.438 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:01:40.532 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301820.X57 Not exist!
+- 15:01:40.594 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301840.X57 Not exist!
+- 15:01:40.797 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301860.X57 Not exist!
+- 15:01:40.922 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302020.X57 Not exist!
+- 15:01:41.577 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:01:41.655 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:01:41.092 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:01:41.185 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:01:42.731 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:01:42.794 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:01:42.168 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:01:42.262 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:01:43.558 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58910B.X57 Not exist!
+- 15:01:43.589 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58910C.X57 Not exist!
+- 15:01:43.605 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911A.X57 Not exist!
+- 15:01:43.620 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911A.X57 Not exist!
+- 15:01:43.636 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911B.X57 Not exist!
+- 15:01:43.683 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58913A.X57 Not exist!
+- 15:01:43.698 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58932A.X57 Not exist!
+- 15:01:43.745 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58932B.X57 Not exist!
+- 15:01:43.839 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911A.X57 Not exist!
+- 15:01:43.839 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911B.X57 Not exist!
+- 15:01:43.307 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58910B.X57 Not exist!
+- 15:01:43.338 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58910C.X57 Not exist!
+- 15:01:43.385 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911A.X57 Not exist!
+- 15:01:43.400 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911A.X57 Not exist!
+- 15:01:43.400 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911B.X57 Not exist!
+- 15:01:44.463 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58913A.X57 Not exist!
+- 15:01:44.478 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58932A.X57 Not exist!
+- 15:01:44.478 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58932B.X57 Not exist!
+- 15:01:44.588 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911A.X57 Not exist!
+- 15:01:44.588 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911B.X57 Not exist!
+- 15:01:44.837 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:01:44.134 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162B.X57 Not exist!
+- 15:01:44.180 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162B.X57 Not exist!
+- 15:01:44.196 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162C.X57 Not exist!
+- 15:01:45.461 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40164A.X57 Not exist!
+- 15:01:45.695 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162B.X57 Not exist!
+- 15:01:45.992 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\FR5TEST2.X57 Not exist!
+- 15:01:45.194 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281600.X57 Not exist!
+- 15:01:45.304 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281800.X57 Not exist!
+- 15:01:46.491 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB282000.X57 Not exist!
+- 15:01:46.522 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283000.X57 Not exist!
+- 15:01:46.787 ERROR: invalid iCoordType: sr.iCoordType=-1---sru.spatialrcd.iCoordType=-1
+- 15:01:46.193 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283100.X57 Not exist!
+- 15:01:47.801 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283200.X57 Not exist!
+- 15:01:47.020 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283300.X57 Not exist!
+- 15:01:48.472 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281600.X57 Not exist!
+- 15:01:48.628 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281800.X57 Not exist!
+- 15:01:48.753 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB282000.X57 Not exist!
+- 15:01:48.800 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283000.X57 Not exist!
+- 15:01:48.049 ERROR: invalid iCoordType: sr.iCoordType=-1---sru.spatialrcd.iCoordType=-1
+- 15:01:48.221 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283100.X57 Not exist!
+- 15:01:49.798 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283200.X57 Not exist!
+- 15:01:49.032 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283300.X57 Not exist!
+- 15:01:49.157 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB255000.X57 Not exist!
+- 15:01:49.328 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB270000.X57 Not exist!
+- 15:01:50.233 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281600.X57 Not exist!
+- 15:01:50.358 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281800.X57 Not exist!
+- 15:01:51.498 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB282000.X57 Not exist!
+- 15:01:51.561 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283000.X57 Not exist!
+- 15:01:51.904 ERROR: invalid iCoordType: sr.iCoordType=-1---sru.spatialrcd.iCoordType=-1
+- 15:01:51.185 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283100.X57 Not exist!
+- 15:01:51.185 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283200.X57 Not exist!
+- 15:01:52.512 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283100.X57 Not exist!
+- 15:01:52.183 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283200.X57 Not exist!
+- 15:01:53.119 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB251200.X57 Not exist!
+- 15:01:54.478 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB255000.X57 Not exist!
+- 15:01:54.603 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB280200.X57 Not exist!
+- 15:01:54.774 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:01:55.710 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB280200.X57 Not exist!
+- 15:01:55.882 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB251200.X57 Not exist!
+- 15:01:55.210 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB255000.X57 Not exist!
+- 15:01:55.381 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB280200.X57 Not exist!
+- 15:01:56.553 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:01:56.255 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB380620.X57 Not exist!
+- 15:01:56.411 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB380720.X57 Not exist!
+- 15:01:57.473 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:01:57.754 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162B.X57 Not exist!
+- 15:01:57.910 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40182A.X57 Not exist!
+- 15:01:58.345 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB280200.X57 Not exist!
+- 15:01:58.377 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB380620.X57 Not exist!
+- 15:01:58.377 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB380720.X57 Not exist!
+- 15:01:59.689 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303040.X57 Not exist!
+- 15:01:59.250 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:00.671 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:01.529 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:01.717 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:01.278 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303460.X57 Not exist!
+- 15:02:02.684 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:02.855 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40184A.X57 Not exist!
+- 15:02:02.121 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:02.261 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40202A.X57 Not exist!
+- 15:02:03.526 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:03.181 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:04.634 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:04.681 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50182A.X57 Not exist!
+- 15:02:05.929 ERROR: Incorrect Edition Number : expecting 2
+- 15:02:05.944 ERROR: Incorrect Edition Number : expecting 2
+- 15:02:05.975 ERROR: Incorrect Edition Number : expecting 4
+- 15:02:06.880 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303040.X57 Not exist!
+- 15:02:06.379 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:07.785 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.785 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:07.785 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:07.785 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:07.785 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:07.785 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:07.801 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:07.894 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:07.925 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:07.941 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:07.941 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:07.941 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:07.941 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303460.X57 Not exist!
+- 15:02:07.144 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:07.144 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:07.144 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:07.237 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:07.237 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:07.253 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:07.269 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:07.284 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:07.284 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:07.300 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50182A.X57 Not exist!
+- 15:02:08.783 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:08.971 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:08.111 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:09.595 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:09.875 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:09.156 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:12.481 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.481 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:12.481 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:12.481 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.496 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.496 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.496 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.496 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.496 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.496 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.496 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.512 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.527 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.527 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.543 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.543 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.543 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.543 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.543 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:12.559 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:12.559 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:12.574 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:12.590 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:12.605 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:12.605 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:12.621 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:12.621 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:12.621 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:12.637 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:12.652 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303460.X57 Not exist!
+- 15:02:12.995 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50182A.X57 Not exist!
+- 15:02:13.541 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:13.744 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:13.916 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:14.509 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:14.509 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40184A.X57 Not exist!
+- 15:02:14.524 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:14.524 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40202A.X57 Not exist!
+- 15:02:14.587 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:14.587 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:14.587 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:15.850 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:15.850 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40184A.X57 Not exist!
+- 15:02:15.850 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:15.866 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40202A.X57 Not exist!
+- 15:02:15.866 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:15.866 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:15.881 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:15.928 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:15.928 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40184A.X57 Not exist!
+- 15:02:16.490 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:16.490 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:16.505 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40184A.X57 Not exist!
+- 15:02:16.505 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40184A.X57 Not exist!
+- 15:02:16.942 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:16.270 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40184A.X57 Not exist!
+- 15:02:17.629 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:17.629 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40202A.X57 Not exist!
+- 15:02:17.644 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:17.769 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:17.785 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:17.268 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:17.268 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40202A.X57 Not exist!
+- 15:02:17.268 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:17.268 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:18.627 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.627 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:18.627 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:18.627 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:18.627 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:18.627 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:18.627 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:18.627 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:18.627 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.627 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.643 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.658 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.658 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.658 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.674 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.674 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.689 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.689 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.689 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.689 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.705 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.705 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.705 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.705 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:18.705 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:18.721 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:18.721 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:18.721 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:18.721 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:18.721 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:18.721 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:18.736 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:18.736 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:18.736 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:18.736 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303460.X57 Not exist!
+- 15:02:18.001 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:18.001 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:18.001 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:18.017 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40184A.X57 Not exist!
+- 15:02:18.282 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:18.282 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:18.298 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:18.313 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:18.313 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:18.313 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40202A.X57 Not exist!
+- 15:02:19.516 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:19.532 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:19.547 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:19.547 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:19.563 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:19.563 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:19.579 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:19.594 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:19.594 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:19.610 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50182A.X57 Not exist!
+- 15:02:19.109 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302840.X57 Not exist!
+- 15:02:19.281 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303220.X57 Not exist!
+- 15:02:19.374 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB303420.X57 Not exist!
+- 15:02:20.920 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:20.263 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40186D.X57 Not exist!
+- 15:02:21.607 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162B.X57 Not exist!
+- 15:02:21.794 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162C.X57 Not exist!
+- 15:02:21.184 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB50162D.X57 Not exist!
+- 15:02:23.337 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:02:24.461 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:02:24.602 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:02:24.085 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:02:25.507 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:02:25.819 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100004.X57 Not exist!
+- 15:02:25.053 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281600.X57 Not exist!
+- 15:02:25.193 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281800.X57 Not exist!
+- 15:02:25.380 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB282000.X57 Not exist!
+- 15:02:26.458 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283000.X57 Not exist!
+- 15:02:26.770 ERROR: invalid iCoordType: sr.iCoordType=-1---sru.spatialrcd.iCoordType=-1
+- 15:02:26.051 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:02:26.207 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:02:26.285 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:02:27.956 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:02:27.956 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:02:27.956 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281600.X57 Not exist!
+- 15:02:27.956 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281800.X57 Not exist!
+- 15:02:27.956 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:02:27.956 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:27.956 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:02:27.956 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:02:27.971 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:02:27.971 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:02:27.971 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100004.X57 Not exist!
+- 15:02:27.081 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281600.X57 Not exist!
+- 15:02:27.081 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281800.X57 Not exist!
+- 15:02:27.081 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:02:27.081 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:27.081 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:27.081 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:02:27.268 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:02:28.486 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:02:28.783 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281600.X57 Not exist!
+- 15:02:28.939 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281800.X57 Not exist!
+- 15:02:28.173 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB282000.X57 Not exist!
+- 15:02:28.173 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283000.X57 Not exist!
+- 15:02:28.173 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:02:28.329 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:02:28.344 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:02:28.376 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:29.812 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162B.X57 Not exist!
+- 15:02:29.828 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162C.X57 Not exist!
+- 15:02:29.859 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58911B.X57 Not exist!
+- 15:02:29.859 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58913A.X57 Not exist!
+- 15:02:29.875 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58932A.X57 Not exist!
+- 15:02:29.875 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58932B.X57 Not exist!
+- 15:02:29.875 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:02:29.015 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61011A.X57 Not exist!
+- 15:02:29.015 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:02:29.031 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61032A.X57 Not exist!
+- 15:02:30.655 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:02:30.873 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:02:30.123 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100004.X57 Not exist!
+- 15:02:30.248 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281600.X57 Not exist!
+- 15:02:30.326 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB281800.X57 Not exist!
+- 15:02:31.497 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:02:31.622 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB40162A.X57 Not exist!
+- 15:02:31.043 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:02:32.213 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB282000.X57 Not exist!
+- 15:02:32.229 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB283000.X57 Not exist!
+- 15:02:32.338 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:02:32.338 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:02:48.406 WARNING: Object Label: 999 invalid!
+- 15:02:51.276 WARNING: Object Label: 999 invalid!
+- 15:02:55.459 WARNING: Object Label: 999 invalid!
+- 15:03:35.222 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:03:36.158 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:03:38.890 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:03:39.576 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:03:49.810 WARNING: Object Label: 255 invalid!
+- 15:03:49.810 WARNING: Object Label: 255 invalid!
+- 15:03:49.810 WARNING: Object Label: 255 invalid!
+- 15:03:49.810 WARNING: Object Label: 255 invalid!
+- 15:03:49.810 WARNING: Object Label: 255 invalid!
+- 15:03:49.810 WARNING: Object Label: 255 invalid!
+- 15:03:49.324 WARNING: Object Label: 255 invalid!
+- 15:03:49.324 WARNING: Object Label: 255 invalid!
+- 15:03:49.324 WARNING: Object Label: 255 invalid!
+- 15:03:49.324 WARNING: Object Label: 255 invalid!
+- 15:03:49.324 WARNING: Object Label: 255 invalid!
+- 15:03:49.324 WARNING: Object Label: 255 invalid!
+- 15:03:51.635 WARNING: Object Label: 255 invalid!
+- 15:03:51.635 WARNING: Object Label: 255 invalid!
+- 15:03:51.635 WARNING: Object Label: 255 invalid!
+- 15:03:51.635 WARNING: Object Label: 255 invalid!
+- 15:03:51.635 WARNING: Object Label: 255 invalid!
+- 15:03:51.635 WARNING: Object Label: 255 invalid!
+- 15:03:52.711 WARNING: Object Label: 255 invalid!
+- 15:03:52.711 WARNING: Object Label: 255 invalid!
+- 15:03:52.711 WARNING: Object Label: 255 invalid!
+- 15:03:52.711 WARNING: Object Label: 255 invalid!
+- 15:03:52.711 WARNING: Object Label: 255 invalid!
+- 15:03:52.711 WARNING: Object Label: 255 invalid!
+- 15:03:53.959 WARNING: Object Label: 255 invalid!
+- 15:03:53.959 WARNING: Object Label: 255 invalid!
+- 15:03:53.959 WARNING: Object Label: 255 invalid!
+- 15:03:53.959 WARNING: Object Label: 255 invalid!
+- 15:03:53.959 WARNING: Object Label: 255 invalid!
+- 15:03:53.959 WARNING: Object Label: 255 invalid!
+- 15:03:54.348 WARNING: Object Label: 255 invalid!
+- 15:03:54.348 WARNING: Object Label: 255 invalid!
+- 15:03:54.348 WARNING: Object Label: 255 invalid!
+- 15:03:54.348 WARNING: Object Label: 255 invalid!
+- 15:03:54.348 WARNING: Object Label: 255 invalid!
+- 15:03:54.348 WARNING: Object Label: 255 invalid!
+- 15:03:55.330 WARNING: Object Label: 255 invalid!
+- 15:03:55.330 WARNING: Object Label: 255 invalid!
+- 15:03:55.330 WARNING: Object Label: 255 invalid!
+- 15:03:55.330 WARNING: Object Label: 255 invalid!
+- 15:03:55.330 WARNING: Object Label: 255 invalid!
+- 15:03:55.330 WARNING: Object Label: 255 invalid!
+- 15:03:56.329 WARNING: Object Label: 255 invalid!
+- 15:03:56.329 WARNING: Object Label: 255 invalid!
+- 15:03:56.329 WARNING: Object Label: 255 invalid!
+- 15:03:56.329 WARNING: Object Label: 255 invalid!
+- 15:03:56.329 WARNING: Object Label: 255 invalid!
+- 15:03:56.329 WARNING: Object Label: 255 invalid!
+- 15:03:58.468 WARNING: Object Label: 255 invalid!
+- 15:03:58.468 WARNING: Object Label: 255 invalid!
+- 15:03:58.468 WARNING: Object Label: 255 invalid!
+- 15:03:58.468 WARNING: Object Label: 255 invalid!
+- 15:03:58.468 WARNING: Object Label: 255 invalid!
+- 15:03:58.468 WARNING: Object Label: 255 invalid!
+- 15:03:59.544 WARNING: Object Label: 255 invalid!
+- 15:03:59.544 WARNING: Object Label: 255 invalid!
+- 15:03:59.544 WARNING: Object Label: 255 invalid!
+- 15:03:59.544 WARNING: Object Label: 255 invalid!
+- 15:03:59.544 WARNING: Object Label: 255 invalid!
+- 15:03:59.544 WARNING: Object Label: 255 invalid!
+- 15:04:01.822 WARNING: Object Label: 255 invalid!
+- 15:04:01.822 WARNING: Object Label: 255 invalid!
+- 15:04:01.822 WARNING: Object Label: 255 invalid!
+- 15:04:01.822 WARNING: Object Label: 255 invalid!
+- 15:04:01.837 WARNING: Object Label: 255 invalid!
+- 15:04:01.837 WARNING: Object Label: 255 invalid!
+- 15:04:01.258 WARNING: Object Label: 255 invalid!
+- 15:04:01.258 WARNING: Object Label: 255 invalid!
+- 15:04:01.258 WARNING: Object Label: 255 invalid!
+- 15:04:01.258 WARNING: Object Label: 255 invalid!
+- 15:04:01.258 WARNING: Object Label: 255 invalid!
+- 15:04:01.258 WARNING: Object Label: 255 invalid!
+- 15:04:03.006 WARNING: Object Label: 255 invalid!
+- 15:04:03.006 WARNING: Object Label: 255 invalid!
+- 15:04:03.006 WARNING: Object Label: 255 invalid!
+- 15:04:03.006 WARNING: Object Label: 255 invalid!
+- 15:04:03.006 WARNING: Object Label: 255 invalid!
+- 15:04:03.006 WARNING: Object Label: 255 invalid!
+- 15:05:07.904 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1AB1.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:08.417 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1AB1.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:12.490 INFO: ENC File: testData/ECDIS_Chart_1/AA4C1XMS.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:12.662 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1AB1.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:12.787 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1AB2.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:12.974 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1CDE.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:12.130 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1FOO.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:12.286 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1HIO.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:13.442 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1JKL.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:13.567 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1MOO.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:13.754 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1NOO.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:13.925 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1PRS.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:13.113 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1QO1.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:13.378 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1QO2.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:14.596 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1MNS.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:14.705 INFO: ENC File: testData/ECDIS_Chart_1/AA5C1WOO.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:14.893 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:05:14.002 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:05:14.111 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:05:15.985 INFO: ENC File: testData/ECDIS_Chart_1/AA4C1XMS.000 Has no M_COVR Object with CATCOV=1, which means no coverage available.
+- 15:05:54.094 ERROR: Incorrect Edition Number : expecting 1
+- 15:05:54.344 ERROR: Incorrect Edition Number : expecting 2
+- 15:05:55.389 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB4X0000.X57 Not exist!
+- 15:05:58.448 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:05:58.682 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:05:58.181 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:05:59.509 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:05:59.743 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100004.X57 Not exist!
+- 15:05:59.899 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100005.X57 Not exist!
+- 15:05:59.242 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100001.X57 Not exist!
+- 15:06:00.492 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB100002.X57 Not exist!
+- 15:06:00.804 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB58932B.X57 Not exist!
+- 15:06:00.835 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB60242T.X57 Not exist!
+- 15:06:00.960 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61011A.X57 Not exist!
+- 15:06:00.287 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:06:00.381 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:06:00.412 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61032A.X57 Not exist!
+- 15:06:01.802 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:06:01.864 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:06:01.005 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021A.X57 Not exist!
+- 15:06:01.130 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61021B.X57 Not exist!
+- 15:06:01.176 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB61032A.X57 Not exist!
+- 15:06:01.442 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:06:02.457 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:06:02.613 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:06:02.613 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:06:02.707 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:06:02.847 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:06:02.910 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:06:02.019 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:06:02.019 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:06:02.144 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:06:02.284 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:06:03.456 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:06:03.534 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301820.X57 Not exist!
+- 15:06:03.534 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301840.X57 Not exist!
+- 15:06:03.846 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301860.X57 Not exist!
+- 15:06:03.017 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302020.X57 Not exist!
+- 15:06:03.236 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301820.X57 Not exist!
+- 15:06:03.345 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301620.X57 Not exist!
+- 15:06:04.501 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301640.X57 Not exist!
+- 15:06:04.610 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301660.X57 Not exist!
+- 15:06:04.719 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301820.X57 Not exist!
+- 15:06:04.797 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301840.X57 Not exist!
+- 15:06:04.031 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB301860.X57 Not exist!
+- 15:06:04.187 ERROR: File C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts\GB302020.X57 Not exist!
+- 15:06:04.000 INFO: Logging system initialized.
+- 15:06:04.000 INFO: Root env: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib
+- 15:06:04.000 INFO: No license control.
+- 15:06:04.000 INFO: Current SENC directory: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts
+- 15:06:04.016 INFO: Path of Plugins: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\plugins
+- 15:06:04.016 INFO: Smooth mode is on.
+- 15:06:05.047 INFO: screen size: 15.6 inch.
+- 15:06:05.047 INFO: screen resolution: 2418 X 1478
+- 15:06:05.203 INFO: ChartSymbols loaded.
+- 15:06:05.265 INFO: ChartSymbols loaded.
+- 15:06:06.264 INFO: Qt graphics engine.
+- 15:06:06.279 INFO: Layer in system: S57DataLayer
+- 15:06:06.279 INFO: Layer in system: S57ManualUpdateLayer
+- 15:06:06.279 INFO: Layer in system: S57RouteLayer
+- 15:06:06.279 INFO: Layer in system: S57UserChartLayer
+- 15:06:06.279 INFO: Layer in system: TTLayer
+- 15:06:06.279 INFO: Layer in system: AISLayer
+- 15:06:06.279 INFO: Layer in system: HLLayer
+- 15:06:06.279 INFO: Layer in system: MiscellaneousLayer
+- 15:06:06.279 INFO: Layer in system: OwnshipLayer
+- 15:06:06.295 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:06:18.000 INFO: Logging system initialized.
+- 15:06:18.000 INFO: Root env: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib
+- 15:06:18.000 INFO: No license control.
+- 15:06:18.000 INFO: Current SENC directory: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts
+- 15:06:18.032 INFO: Path of Plugins: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\plugins
+- 15:06:19.078 INFO: Smooth mode is on.
+- 15:06:19.078 INFO: screen size: 15.6 inch.
+- 15:06:19.078 INFO: screen resolution: 2418 X 1478
+- 15:06:19.234 INFO: ChartSymbols loaded.
+- 15:06:19.281 INFO: ChartSymbols loaded.
+- 15:06:19.687 INFO: Qt graphics engine.
+- 15:06:19.702 INFO: Layer in system: S57DataLayer
+- 15:06:19.702 INFO: Layer in system: S57ManualUpdateLayer
+- 15:06:19.702 INFO: Layer in system: S57RouteLayer
+- 15:06:19.702 INFO: Layer in system: S57UserChartLayer
+- 15:06:19.702 INFO: Layer in system: TTLayer
+- 15:06:19.702 INFO: Layer in system: AISLayer
+- 15:06:19.702 INFO: Layer in system: HLLayer
+- 15:06:19.702 INFO: Layer in system: MiscellaneousLayer
+- 15:06:19.702 INFO: Layer in system: OwnshipLayer
+- 15:06:19.718 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.
+- 15:07:05.000 INFO: Logging system initialized.
+- 15:07:05.000 INFO: Root env: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib
+- 15:07:05.000 INFO: No license control.
+- 15:07:05.000 INFO: Current SENC directory: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\mapdata\ecdis.exe\charts
+- 15:07:05.015 INFO: Path of Plugins: C:\code\rcecdissdk\aux_scripts\winxppack\Enclib\plugins
+- 15:07:05.047 INFO: Smooth mode is on.
+- 15:07:05.062 INFO: screen size: 15.6 inch.
+- 15:07:05.062 INFO: screen resolution: 2418 X 1478
+- 15:07:05.187 INFO: ChartSymbols loaded.
+- 15:07:06.234 INFO: ChartSymbols loaded.
+- 15:07:06.764 INFO: Qt graphics engine.
+- 15:07:06.780 INFO: Layer in system: S57DataLayer
+- 15:07:06.780 INFO: Layer in system: S57ManualUpdateLayer
+- 15:07:06.780 INFO: Layer in system: S57RouteLayer
+- 15:07:06.780 INFO: Layer in system: S57UserChartLayer
+- 15:07:06.780 INFO: Layer in system: TTLayer
+- 15:07:06.780 INFO: Layer in system: AISLayer
+- 15:07:06.780 INFO: Layer in system: HLLayer
+- 15:07:06.780 INFO: Layer in system: MiscellaneousLayer
+- 15:07:06.780 INFO: Layer in system: OwnshipLayer
+- 15:07:06.780 WARNING: Symbol WRECKSA2 does not have a bitmap 			presentation found in current presentation library.

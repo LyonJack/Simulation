@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MarinerSettings>
+    <ViewDateAuto value="1" />
+    <ViewDateRange ViewDateStart="0" ViewDateEnd="2147483647" />
+    <DisplayFullLenghtSectorLeg value="0" />
+    <HighlightDateDependentObjs value="0" />
+    <HighlightAdditionalChartInfo value="0" />
+    <HighlightAdditionalChartInfoDoc value="0" />
+    <ColorScheme value="DAY" />
+    <DisplayChineseLanguage value="0" />
+    <DisplayNationalLanguage value="0" />
+    <DisplayStyle value="0" />
+    <PointSymbolType value="1" />
+    <UseSCAMIN value="1" />
+    <ShowShallowPattern value="0" />
+    <TwoDepthShades value="1" />
+    <SafetyDepth value="30" />
+    <ShallowContour value="10" />
+    <SafetyContour value="30" />
+    <DeepContour value="50" />
+    <ShowOverScale value="0" />
+    <ShowText value="1" />
+    <ShowFullText value="0" />
+    <TextGroupLayer value="1," />
+    <TextGroup value="11," />
+    <ShowDateCheck value="1" />
+    <ShowGrid value="0" />
+    <ShowChartBoudary value="0" />
+    <MonoView value="0" />
+    <ViewClass value="79" />
+    <ViewGroupLayer value="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1," />
+    <ViewGroups>
+        <BaseViewGroup>
+            <Groups value="11000,11010,11030,11040,11050,11060,12000,12010,12200,12210,12400,12410,12420,13000,13010,13030,14000,14010,14050," />
+            <ConfigState value="2" />
+        </BaseViewGroup>
+        <StdViewGroup>
+            <Groups value="20000,21000,21010,21020,21030,21060,22000,22010,22200,22210,22220,22240,23000,23010,23030,24000,24010,24020,24050,25000,25010,25020,25030,25040,25060,26000,26010,26040,26050,26150,26200,26210,26220,26230,26240,26250,26260,27000,27010,27011,27020,27025,27030,27040,27050,27060,27070,27080,27200,27210,27230,28000,28010,28020," />
+            <ConfigState value="2" />
+        </StdViewGroup>
+        <OtherViewGroup>
+            <Groups value="30000,31000,31010,31011,31020,31030,31031,31040,31080,32000,32010,32030,32050,32070,32200,32220,32240,32250,32270,32400,32410,32430,32440,32460,33000,33010,33020,33021,33022,33040,33050,33060,34000,34010,34020,34030,34040,34050,34051,34070,35000,36000,36010,36020,36040,36050,38000,38010,38030,38200,38210," />
+            <ConfigState value="2" />
+        </OtherViewGroup>
+    </ViewGroups>
+    <SymbolizedAreaBoundaries value="0" />
+    <LineSymbolType value="0" />
+    <Time_Difference value="-320299656" />
+    <ShowShallowWaterIsoDanger value="0" />
+</MarinerSettings>
