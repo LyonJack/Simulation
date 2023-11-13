@@ -21,19 +21,19 @@
     {
       "hidden": true,
       "name": "Qt-Default",
-      "inherits": "5.15.2_msvc2015_64",
+      "inherits": "5.15.2_winrt_x64_msvc2019",
       "vendor": {
         "qt-project.org/Default": {
-          "checksum": "1jIrJUaEk33cloA0DiyAJzklvbM="
+          "checksum": "8nUHfGsyCOHuD0liiiG+OT6hsQM="
         }
       }
     },
     {
       "hidden": true,
-      "name": "5.15.2_msvc2015_64",
+      "name": "5.15.2_winrt_x64_msvc2019",
       "inherits": "Qt",
       "environment": {
-        "QTDIR": "D:/IDE/QT/5.15.2/MSVC2015_64"
+        "QTDIR": "E:/THIRD/QT/5.15.2/WINRT_X64_MSVC2019"
       },
       "architecture": {
         "strategy": "external",
@@ -42,14 +42,14 @@
       "generator": "Ninja",
       "vendor": {
         "qt-project.org/Version": {
-          "checksum": "Re8qimHwNgRrnBXtDi9WsOQE4Mk="
+          "checksum": "I8DndqPw8ie72F4jsC78x7cOj+o="
         }
       }
     }
   ],
   "vendor": {
     "qt-project.org/Presets": {
-      "checksum": "SL/GvsyC0wtbK7nXYX5jmga6Kp4="
+      "checksum": "BS+0w/8UIA+2bBUBkzoJWm18qDE="
     }
   }
 }

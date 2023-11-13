@@ -101,17 +101,18 @@ Window {
         width: 640
         height: 480
         color: "#2795e9"
+        border.color: red
         MapItem
         {
             id: mapItem
             anchors.fill: parent
-            centerFreqPos: 200
-            spanFreqPos: 100
-            bandPowerPos: 200
-            Rectangle
+            MouseArea
             {
-                border.color: red
                 anchors.fill: parent
+                acceptedButtons: Qt.LeftButton | Qt.RightButton
+                onWheel:{
+                    parent.onWheel(wheel.x,wheel.y,wheel.angleDelta.y)
+                }
             }
         }
     }

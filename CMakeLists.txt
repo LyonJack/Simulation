@@ -8,4 +8,4 @@ ENDIF()
 # 添加子项目
 add_subdirectory (Utils)	    # 公共模块
 add_subdirectory (business)	    # 业务模块
-add_subdirectory (App)          # App
+add_subdirectory (App)              # App
